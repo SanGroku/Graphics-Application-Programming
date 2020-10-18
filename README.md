@@ -1,2 +1,2 @@
-# Graphics-Application-Programming
-A collection of work created in Graphics Application Programming class. 
+# GAP Final Project 
+A repo used to track the progress of a final project created in Graphics Application Class. 
