@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 6e72077f5239b8a42b67ae05661daed3
+  - enabled: 1
+    path: Assets/Scenes/Bouncing Ball.unity
+    guid: 6da9ee7ad7e9a0f4aa97ee39799cbf6b
+  - enabled: 1
+    path: Assets/Scenes/Pendulum.unity
+    guid: 7a6c1b3898af2a54d9bf1c838bab8c8d
   m_configObjects: {}
