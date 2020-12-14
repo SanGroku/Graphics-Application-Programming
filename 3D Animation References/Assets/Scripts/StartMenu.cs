@@ -16,4 +16,9 @@ public class StartMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Pendulum");
     }
+
+    public void LoadMainMenu()
+    {
+        SceneManager.LoadScene("Menu");
+    }
 }
